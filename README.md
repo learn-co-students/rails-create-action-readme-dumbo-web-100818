@@ -31,6 +31,7 @@ the SQL statement, and the method returns `true` upon a successful save. At a
 high level, this is what the `create` method in our `PostsController` will be
 doing.
 
+
 Open up the `posts_controller.rb` file. Let's do a few things to replicate the
 behavior we had in the console:
 
